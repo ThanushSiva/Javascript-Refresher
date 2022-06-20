@@ -1,0 +1,14 @@
+{
+  "name": "exports_imports",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node imp.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
